@@ -1,4 +1,4 @@
-iimport socket
+import socket
 import socks
 import threading
 import random
